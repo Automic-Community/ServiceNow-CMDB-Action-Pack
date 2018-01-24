@@ -9,7 +9,7 @@ http://github.com/Automic-Community/ServiceNow-CMDB-Action-Pack
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_SERVICENOW_CMDB_MANAGEMENT_1.0.0.zip
+								*PCK.CUSTOM_SERVICENOW_CMDB_MANAGEMENT_1.0.1.zip
 								
 								*Action_packcmdb.png
 								
